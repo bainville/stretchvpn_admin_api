@@ -1,1 +1,2 @@
-# stretchvpn_admin_api
+# StretchVPN Admin API
+To work with the web client.
